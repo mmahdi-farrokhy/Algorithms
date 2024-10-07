@@ -1,5 +1,3 @@
-package BinarySearch;
-
 import java.util.List;
 
 public class BinarySearch {
